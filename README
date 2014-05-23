@@ -3,3 +3,8 @@ This uses two methods to calculate Pi:
 Randomized Points, explained here: https://www.youtube.com/watch?v=fQo2B3kFYm4
 
 Polygons, explained here: https://www.youtube.com/watch?v=D09r1lH_Sow
+
+
+You need to install pygame (www.pygame.org) and python 2 (https://www.python.org/download/)
+
+Python3 will not work with this application.
